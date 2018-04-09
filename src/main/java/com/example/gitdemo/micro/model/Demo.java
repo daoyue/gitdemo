@@ -6,6 +6,8 @@ package com.example.gitdemo.micro.model;
  **/
 public class Demo {
 
+    private String name;
+    private Integer age;
     
 
 
