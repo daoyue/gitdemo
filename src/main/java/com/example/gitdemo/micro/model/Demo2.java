@@ -7,5 +7,4 @@ package com.example.gitdemo.micro.model;
 public class Demo2 {
 
 
-    private String name;
 }
